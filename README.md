@@ -65,3 +65,13 @@ Two REST APIs are integrated using `java.net.http.HttpClient` (no extra dependen
    ```bash
    git clone https://github.com/your-username/Pacman-Game.git
    cd Pacman-Game
+
+https://github.com/user-attachments/assets/f2af265f-d8f2-4c5e-9d14-88874cf73580
+
+<img width="608" height="558" alt="2-login" src="https://github.com/user-attachments/assets/9bfdb1fb-b888-4d11-a4b9-2e137831db59" />
+<img width="601" height="504" alt="3-Leaderboard" src="https://github.com/user-attachments/assets/45253a7c-0d70-4c75-bd54-71b3f7876853" />
+<img width="773" height="780" alt="5-heart game API" src="https://github.com/user-attachments/assets/f8371458-0af5-4b07-917b-6f73ebe8adee" />
+<img width="608" height="492" alt="6-Logout" src="https://github.com/user-attachments/assets/646d9163-d401-432b-8ed9-0551d20a2b53" />
+
+
+
